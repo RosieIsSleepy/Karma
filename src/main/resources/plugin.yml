@@ -2,3 +2,4 @@ name: Karma
 version: '${project.version}'
 main: me.info.karma.Karma
 api-version: '1.20'
+author: "RosieIsSleepy"
